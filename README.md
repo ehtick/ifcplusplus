@@ -6,8 +6,10 @@ If you need support or customization for existing projects, it is still availabl
 
 ## Follow-up and alternative to IFC++
 
-For new projects, I recommend xeoIFC (https://github.com/xeofoundry/xeoIfc)
+For new projects, I recommend xeoIFC (https://github.com/xeofoundry/xeoIfc).
+
 It is much more recent, the geometry quality and robustness is much better, CSG operations are more stable, and it can run also in WASM.<br>
-XeoIFC has a very low memory footprint and very high performance.<br>
+
+XeoIFC has a very low memory footprint and very high performance and geometry quality.<br>
 
 
